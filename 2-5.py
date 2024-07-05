@@ -1,0 +1,5 @@
+print('abc')
+print("あいう")
+print(type('abc'))
+print(type("あいう"))
+print("I'm fine.")
